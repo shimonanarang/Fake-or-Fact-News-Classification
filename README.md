@@ -10,3 +10,4 @@ Three approaches have been adopted:
 2. LSTM
 3. BERT using TPU
 
+Link to data: https://drive.google.com/open?id=1eEBHNk9nyi7W4lydsZGZWP2SrebRB9hR
